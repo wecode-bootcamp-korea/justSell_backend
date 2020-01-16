@@ -1,0 +1,8 @@
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =9, order_memo="배송 잘해줘요 ~~", user_id=10)
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =10, order_memo="김미 상품 ~~", user_id=10)
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =11, order_memo="배송 잘줘요 ~~", user_id=10)
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =12, order_memo="좋은 상품 ~~", user_id=10)
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =13, order_memo="배송 잘부탁드려요 !!", user_id=10)
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =14, order_memo="배송 !!!", user_id=10)
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =15, order_memo="어서 줘 ~~", user_id=10)
+Orders.objects.create(order_status_id=1, orderer_id=1, receiver_id=1, product_id =16, order_memo="현기증난단말야~~", user_id=10)
