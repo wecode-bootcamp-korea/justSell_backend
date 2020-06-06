@@ -12,7 +12,7 @@ CodeIntel==0.9.3
 colorama==0.4.1
 configparser==4.0.2
 cryptography==2.1.4
-Django==1.11.27
+Django==1.11.29
 django-cors-headers==3.0.2
 django-storages==1.8
 docutils==0.15.2
