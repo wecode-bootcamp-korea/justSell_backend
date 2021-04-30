@@ -53,7 +53,7 @@ singledispatch==3.4.0.3
 six==1.13.0
 stevedore==1.31.0
 subprocess32==3.5.4
-urllib3==1.25.7
+urllib3==1.25.8
 virtualenv==16.2.0
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
