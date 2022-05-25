@@ -37,7 +37,7 @@ pyasn1==0.4.8
 pycparser==2.19
 pycrypto==2.6.1
 pygobject==3.26.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==1.9.5
 pylint-django==0.8.0
 pylint-flask==0.5
