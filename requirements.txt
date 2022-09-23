@@ -32,7 +32,7 @@ mccabe==0.6.1
 mysql-connector-python==8.0.18
 parso==0.1.1
 pbr==5.4.4
-protobuf==3.11.2
+protobuf==3.18.3
 pyasn1==0.4.8
 pycparser==2.19
 pycrypto==2.6.1
